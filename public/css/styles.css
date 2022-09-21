@@ -1,0 +1,59 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: #EAC926;
+}
+p{size: 12px;}
+
+h3{
+    size: 24px;
+}
+#precio{
+    size: 18px;
+}
+#descuento{
+    size: 16px;
+}
+#descripción{
+    size: 16px;
+}
+.burger-menu{
+    font: 2em sans-serif;
+    text-align: center;
+}
+.burger-menu i {
+    background-color: #0044AA;
+    border-radius: 5px;
+    color: #FFF;
+    font-size: 20px;
+    margin: 10px 0px 20px 0px;
+    padding: 10px;
+}
+#compra-cuotas{
+    text-align: center;
+}
+.item-tarjeta{
+    font: 2em sans-serif;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #1259c3;
+}
+.item-regalo{
+    font: 2em sans-serif;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #1259c3;
+}
+.item-seguridad{
+    font: 2em sans-serif;
+    margin-bottom: 10px;
+    text-align: center;
+    color: #1259c3;
+}
+
+main{
+    text-align: center;
+    width: 90%;
+    
+}
